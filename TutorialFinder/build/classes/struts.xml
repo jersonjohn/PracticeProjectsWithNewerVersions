@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+
+<package name="default" namespace="/tutorials" extends="struts-default">
+
+<action name="findTutorial" class="org.jerson.trial.actions.TutorialAction">
+
+<result name="success">/success.jsp</result>
+<result name="failure">/error.jsp</result>
+
+</action>
+
+</package>
+
+<package name="search" namespace="/" extends="struts-default">
+
+<action name="search*">
+
+<result>/search{1}.jsp</result>
+
+</action>
+
+</package>
+
+<package name="login" namespace="/" extends="struts-default">
+
+<action name="login" class="org.jerson.trial.actions.LoginAction">
+
+<result name="success">/searchsite.jsp</result>
+<result name="login">/login.jsp</result>
+<result name="input">/login.jsp</result>
+
+</action>
+
+</package>
+
+</struts>

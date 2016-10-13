@@ -1,0 +1,27 @@
+2015-08-07 19:59:49,176 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-08-07 19:59:56,443 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/MvnSampleWebApp/SampleWebApp
+2015-08-07 19:59:56,444 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2015-08-07 20:00:15,888 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/MvnSampleWebApp/SampleWebApp
+2015-08-07 20:00:15,889 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-08-07 20:00:28,919 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-08-07 20:00:32,949 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/MvnSampleWebApp/SampleWebApp
+2015-08-07 20:00:32,950 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2015-08-07 20:01:21,113 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/MvnSampleWebApp/SampleWebApp
+2015-08-07 20:01:21,113 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-08-07 20:01:46,836 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-08-07 20:01:57,889 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/MvnSampleWebApp/SampleWebApp
+2015-08-07 20:01:57,889 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:run
+2015-08-08 00:12:04,070 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/Spring4Struts2HibernateIntegration
+2015-08-08 00:12:04,075 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-08-08 00:12:33,835 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-08-08 00:12:37,264 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/Spring4Struts2HibernateIntegration
+2015-08-08 00:12:37,268 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2015-08-08 00:12:56,122 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-08-08 00:13:06,102 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/Spring4Struts2HibernateIntegration
+2015-08-08 00:13:06,102 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2015-08-08 00:15:57,492 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-08-08 00:15:57,551 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/Spring4Struts2HibernateIntegration
+2015-08-08 00:15:57,551 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2015-08-08 00:16:05,690 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-08-08 00:16:10,792 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/jerson/MavenProjects/Spring4Struts2HibernateIntegration
+2015-08-08 00:16:10,792 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jboss-as:deploy

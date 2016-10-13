@@ -1,0 +1,16 @@
+127.0.0.1 - - [28/Jul/2015:11:12:35 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:12:36 +0800] "GET /TutorialFinder/ HTTP/1.1" 200 1174
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:12:43 +0800] "POST /TutorialFinder/login;jsessionid=37AF89645A7ADA541888DA8B758FBE47 HTTP/1.1" 404 1044
+127.0.0.1 - - [28/Jul/2015:11:14:16 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:14:17 +0800] "GET /TutorialFinder/ HTTP/1.1" 200 822
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:14:25 +0800] "POST /TutorialFinder/login HTTP/1.1" 404 1058
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:14:38 +0800] "GET /TutorialFinder/searchsite.action HTTP/1.1" 200 709
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:28:45 +0800] "GET /TutorialFinder/ HTTP/1.1" 200 822
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:28:51 +0800] "POST /TutorialFinder/login HTTP/1.1" 404 1058
+127.0.0.1 - - [28/Jul/2015:11:29:22 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:29:23 +0800] "GET /TutorialFinder/ HTTP/1.1" 200 822
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:29:30 +0800] "POST /TutorialFinder/login HTTP/1.1" 200 709
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:29:39 +0800] "POST /TutorialFinder/login HTTP/1.1" 200 1003
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:29:45 +0800] "POST /TutorialFinder/login.action HTTP/1.1" 200 849
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:29:51 +0800] "POST /TutorialFinder/login.action HTTP/1.1" 200 1003
+0:0:0:0:0:0:0:1 - - [28/Jul/2015:11:29:55 +0800] "POST /TutorialFinder/login.action HTTP/1.1" 200 709

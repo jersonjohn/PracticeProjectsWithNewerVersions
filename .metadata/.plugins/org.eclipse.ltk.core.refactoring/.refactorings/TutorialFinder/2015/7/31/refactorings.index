@@ -1,0 +1,18 @@
+1437895578733	Copy package
+1437895601748	Delete element
+1437897343868	Encapsulate field 'bestSite'
+1437900157061	Encapsulate field 'site'
+1437925973168	Rename resource 'index.jsp'
+1437926369518	Encapsulate field 'loginid'
+1437926376083	Encapsulate field 'password'
+1437965658104	Rename resource 'struts-tutorial.xml'
+1437987862579	Rename resource 'struts-login.xml'
+1437989655263	Copy file
+1437989668286	Rename resource 'search.jsp'
+1438052440152	Encapsulate field 'loginid'
+1438052447744	Encapsulate field 'password'
+1438052507653	Copy package
+1438052523503	Delete element
+1438052597234	Encapsulate field 'loginid'
+1438052603026	Encapsulate field 'password'
+1438052692596	Encapsulate field 'user'

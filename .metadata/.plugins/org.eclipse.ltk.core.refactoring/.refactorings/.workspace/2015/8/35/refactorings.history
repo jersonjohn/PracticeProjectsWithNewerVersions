@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Spring4Struts2HibernateIntegration&apos;" deleteContents="true" description="Delete resource &apos;Spring4Struts2HibernateIntegration&apos;" element1="/Spring4Struts2HibernateIntegration" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1440553133059"/>
+</session>

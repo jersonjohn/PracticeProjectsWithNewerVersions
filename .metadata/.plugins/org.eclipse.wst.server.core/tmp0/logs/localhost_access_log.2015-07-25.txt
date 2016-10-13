@@ -1,0 +1,12 @@
+127.0.0.1 - - [25/Jul/2015:15:51:46 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:51:46 +0800] "GET /Struts2Starter/ HTTP/1.1" 404 1024
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:52:21 +0800] "GET /Struts2Starter/getTutorial HTTP/1.1" 404 1046
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:52:25 +0800] "GET /Struts2Starter/getTutorial HTTP/1.1" 404 1046
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:52:31 +0800] "GET /Struts2Starter/getTutorial.action HTTP/1.1" 404 1060
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:53:00 +0800] "GET /Struts2Starter/getTutorial.action HTTP/1.1" 404 1060
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:53:03 +0800] "GET /Struts2Starter/getTutorial.action HTTP/1.1" 404 1060
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:53:30 +0800] "GET /Struts2Starter/getTutorial.action HTTP/1.1" 404 1060
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:53:31 +0800] "GET /Struts2Starter/getTutorial.action HTTP/1.1" 404 1060
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:53:31 +0800] "GET /Struts2Starter/getTutorial.action HTTP/1.1" 404 1060
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:53:32 +0800] "GET /Struts2Starter/getTutorial.action HTTP/1.1" 404 1060
+0:0:0:0:0:0:0:1 - - [25/Jul/2015:15:53:32 +0800] "GET /Struts2Starter/getTutorial.action HTTP/1.1" 404 1060
